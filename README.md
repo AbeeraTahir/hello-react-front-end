@@ -57,14 +57,14 @@
 
 In order to run this project you need:
 
-- [API](https://github.com/AbeeraTahir/hello-rails-back-end.git)
+- [API](https://github.com/AbeeraTahir/hello-react-front-end.git)
 
 ### Setup
 
 Clone this repository to your desired folder:
 
 ```
-  git clone https://github.com/AbeeraTahir/hello-rails-back-end.git
+  git clone https://github.com/AbeeraTahir/hello-react-front-end.git
 ```
 
 ### Install
@@ -80,7 +80,7 @@ Install the project dependencies with:
 To run the project, execute the following command:
 
 ```
-  rails s
+  npm start
 ```
 
 ### Run tests
@@ -88,7 +88,7 @@ To run the project, execute the following command:
 To run tests, run the following command:
 
 ```
-rspec
+npm test
 ```
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
