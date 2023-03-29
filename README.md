@@ -57,7 +57,7 @@
 
 In order to run this project you need:
 
-- [API](https://github.com/AbeeraTahir/hello-react-front-end.git)
+- [API](https://github.com/AbeeraTahir/hello-rails-back-end.git)
 
 ### Setup
 
